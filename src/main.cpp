@@ -1,5 +1,5 @@
 #include <Arduino.h>
-
+//Modificato.
 volatile const uint8_t
     pinTick = 10,
     pinLED = LED_BUILTIN;
