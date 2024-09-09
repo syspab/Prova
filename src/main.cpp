@@ -47,3 +47,7 @@ ISR(TIMER1_COMPA_vect)
   digitalWrite(pinLED, flag);
   // can do other stuff in here, within limits
 } // ISR
+
+void PrimaModifica(){
+  
+}
